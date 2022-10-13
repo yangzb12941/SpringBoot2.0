@@ -13,4 +13,6 @@ public interface UserService {
     void testAnnotationAop();
 
     void testIntroduction();
+
+    void testAToB();
 }
